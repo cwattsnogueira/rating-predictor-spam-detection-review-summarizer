@@ -27,34 +27,35 @@ This repository presents a full pipeline for analyzing and moderating product re
 - [04 - Text Cleaning & Vectorization](./04-text-cleaning-vectorization/)
 - [05 - Feature Engineering](./05-feature-engineering/)
 - [05-01 - Text Embeddings with SVD & GloVe](./05-01-text-embeddings-svd-glove/)
+- [05-02 - Data Profiling with YData](./05-02-data-profiling/)
 - [06 - EDA on Engineered Features](./06-eda-features/)
 - [07 - Sentiment Analysis by Category](./07-sentiment-by-category/)
 
 ###  Supervised Modeling
 - [08 - Rating Prediction](./08-rating-prediction/)
-- [08 - Fine-Tuning BERT Models](./08-fine-tuning-berts/)
-  - [BERT 5-Class Rating Model](./08-fine-tuning-berts/bert-5class-rating-model/)
-  - [Hybrid Rating Pipeline](./08-fine-tuning-berts/hybrid-rating-pipeline/)
+- [08-01 - Fine-Tuning BERT Models](./08-01-fine-tuning-berts/)
+  - [BERT 5-Class Rating Model](./08-01-fine-tuning-berts/bert-5class-rating-model/)
+  - [Hybrid Rating Pipeline](./08-01-fine-tuning-berts/hybrid-rating-pipeline/)
 - [10 - Fake Review Modeling (Upsampled)](./10-fake-review-modeling-upsampled/)
 - [10-01 - Fake Review Modeling (SMOTE)](./10-01-fake-review-modeling-smote/)
-- [13 - Deep Learning Modeling](./13-dl-modeling/)
-- [13-01 - RNN/LSTM with Embeddings & SMOTE](./13-01-rnnlstm-embeddings-smote/)
-- [BERT - Fake Review Detection](./bert-fake-review/fine-tuning-bert-oversampling/)
+- [12 - Deep Learning Modeling](./12-dl-modeling/)
+- [12-01 - RNN/LSTM with Embeddings & SMOTE](./12-01-rnnlstm-embeddings-smote/)
+- [13-BERT - Fake Review Detection](./bert-fake-review/fine-tuning-bert-oversampling/)
 
 ###  Unsupervised Modeling
-- [08 - Unsupervised Workflows](./08-unsupervised-workflows/)
+- [08-03 - Unsupervised Workflows](./08-unsupervised-workflows/)
   - [Clustering with KMeans](./08-unsupervised-workflows/clustering-kmeans-elbow/)
   - [Outlier Detection with Isolation Forest](./08-unsupervised-workflows/outlier-detection-isolation-forest/)
-- [12 - Anomaly Detection](./12-anomaly-detection/)
+- [11 - Anomaly Detection](./12-anomaly-detection/)
 
 ###  Applications & Interfaces
 - [09 - App: Rating Review Assistant](./09-app-rating-review/)
-- [App - Fake Review Moderation](./app-fake-review/)
-- [Review Summarization App](./review-summarization-app/)
-- [Review Summarization - T5 Small](./review-summarization-t5-small/)
-- [Review Summarization - BERT Base](./review-summarization-bert-base/)
-- [Review Summarization - GPT-3](./review-summarization-gpt3/)
-- [Review Summarization - GPT-4](./review-summarization-gpt4/)
+- [14 - App - Fake Review Moderation](./14-app-fake-review/)
+- [15 - Review Summarization App](./review-summarization-app/)
+- [15-01 - Review Summarization - T5 Small](./review-summarization-t5-small/)
+- [15-02 - Review Summarization - BERT Base](./review-summarization-bert-base/)
+- [15-03 - Review Summarization - GPT-3](./review-summarization-gpt3/)
+- [15-04 - Review Summarization - GPT-4](./review-summarization-gpt4/)
 
 ---
 
