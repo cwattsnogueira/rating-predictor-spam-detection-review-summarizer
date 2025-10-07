@@ -22,7 +22,7 @@ This repository presents a full pipeline for analyzing and moderating product re
 
 ###  Preprocessing & Initial Analysis
 - [01 - Data Loader & Review Cleaning](./01-data-loader-review-clean/)
-- [02 - Exploratory Data Analysis (EDA)](./02-eda/)
+- [02 - Exploratory Data Analysis (EDA)](./02-eda-initial)
 - [03 - Category Cleaning](./03-category-cleaning/)
 - [04 - Text Cleaning & Vectorization](./04-text-cleaning-vectorization/)
 - [05 - Feature Engineering](./05-feature-engineering/)
