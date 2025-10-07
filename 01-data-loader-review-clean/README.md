@@ -30,7 +30,7 @@ Please place the following files in the `input/` folder before running the noteb
 
 | File Name              | Description                                      | Link Placeholder |
 |------------------------|--------------------------------------------------|------------------|
-| `raw_reviews.csv`      | Raw review dataset with product and user fields  | [Add link here]  |
+| `raw_reviews.csv`      | Raw review dataset with product and user fields  | [raw_reviews.csv](./01-data-loader-review-clean/input/raw_reviews.csv)  |
 
 ##  Generated Files
 
@@ -38,7 +38,7 @@ After running the notebook, the following file will be saved in the `output/` fo
 
 | File Name                   | Description                                      | Format |
 |----------------------------|--------------------------------------------------|--------|
-| `cleaned_reviews.parquet`  | Cleaned and deduplicated review dataset [Add link here]         | Parquet |
+| `cleaned_reviews.parquet`  | Cleaned and deduplicated review dataset [cleaned_reviews.parquet](./01-data-loader-review-clean/output/cleaned_reviews.parquet) | Parquet |
 
 ##  Summary of What the Code Does
 
