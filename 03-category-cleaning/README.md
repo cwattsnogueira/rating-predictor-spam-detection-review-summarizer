@@ -8,9 +8,7 @@
 ![Data Cleaning](https://img.shields.io/badge/data--cleaning-✓-lightgrey)
 ![Ethical AI](https://img.shields.io/badge/ethics-traceable--design-green)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/03_category_cleaning.ipynb" target="_parent">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/03_category_cleaning.ipynb)
 
 ---
 
