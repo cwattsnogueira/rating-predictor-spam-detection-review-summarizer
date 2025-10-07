@@ -11,7 +11,7 @@
 
 ##  Project Context & Objective
 
-This notebook is the first stage of a larger AI/ML bootcamp final project. It focuses on loading, inspecting, and cleaning a raw product review dataset to prepare it for downstream modeling and analysis. The goal is to preserve informative features, handle missingness and duplication ethically, and document every decision transparently.
+This notebook is the first stage of a larger AI/ML project. It focuses on loading, inspecting, and cleaning a raw product review dataset to prepare it for downstream modeling and analysis. The goal is to preserve informative features, handle missingness and duplication ethically, and document every decision transparently.
 
 ##  Folder Structure
 
@@ -30,7 +30,7 @@ Please place the following files in the `input/` folder before running the noteb
 
 | File Name              | Description                                      | Link Placeholder |
 |------------------------|--------------------------------------------------|------------------|
-| `raw_reviews.csv`      | Raw review dataset with product and user fields  | [Add link here]  |
+| `raw_reviews.csv`      | Raw review dataset with product and user fields  | [raw_reviews.csv](./input/raw_reviews.csv)  |
 
 ##  Generated Files
 
@@ -38,7 +38,7 @@ After running the notebook, the following file will be saved in the `output/` fo
 
 | File Name                   | Description                                      | Format |
 |----------------------------|--------------------------------------------------|--------|
-| `cleaned_reviews.parquet`  | Cleaned and deduplicated review dataset [Add link here]         | Parquet |
+| `cleaned_reviews.parquet`  | Cleaned and deduplicated review dataset [cleaned_reviews.parquet](./output/cleaned_reviews.parquet) | Parquet |
 
 ##  Summary of What the Code Does
 
