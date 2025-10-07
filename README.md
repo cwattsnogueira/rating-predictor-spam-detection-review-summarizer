@@ -2,8 +2,8 @@
 
 **Author:** Carllos Watts-Nogueira  
 **Location:** NY, USA  
-**GitHub:** [github.com/carlloswatts](https://github.com/cswattsnogueira)  
-**LinkedIn:** [linkedin.com/in/carlloswatts](https://linkedin.com/in/carlloswattsnogueira)
+**GitHub:** [github.com/carlloswatts-nogueira](https://github.com/cwattsnogueira)  
+**LinkedIn:** [linkedin.com/in/carlloswatts-nogueira](https://linkedin.com/in/carlloswattsnogueira)
 
 ---
 
