@@ -51,6 +51,7 @@ Detect short/long reviews, verbosity, and outliers.
 
 ###  Distribution of Review Ratings
 Spot rating imbalance or skew.
+
 ![Rating Distribution](./output/rating_distribution.png)
 
 ###  Top 10 Brands by Review Count
