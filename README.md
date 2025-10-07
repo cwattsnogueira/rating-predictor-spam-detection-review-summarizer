@@ -1,9 +1,9 @@
 #  Final Project: Review Intelligence Pipeline
 
 **Author:** Carllos Watts-Nogueira  
-**Location:** Middletown, NY, USA  
-**GitHub:** [github.com/carlloswatts](https://github.com/carlloswatts)  
-**LinkedIn:** [linkedin.com/in/carlloswatts](https://linkedin.com/in/carlloswatts)
+**Location:** NY, USA  
+**GitHub:** [github.com/carlloswatts](https://github.com/cswattsnogueira)  
+**LinkedIn:** [linkedin.com/in/carlloswatts](https://linkedin.com/in/carlloswattsnogueira)
 
 ---
 
