@@ -11,7 +11,7 @@
 
 ##  Project Context & Objective
 
-This notebook is the first stage of a larger AI/ML bootcamp final project. It focuses on loading, inspecting, and cleaning a raw product review dataset to prepare it for downstream modeling and analysis. The goal is to preserve informative features, handle missingness and duplication ethically, and document every decision transparently.
+This notebook is the first stage of a larger AI/ML project. It focuses on loading, inspecting, and cleaning a raw product review dataset to prepare it for downstream modeling and analysis. The goal is to preserve informative features, handle missingness and duplication ethically, and document every decision transparently.
 
 ##  Folder Structure
 
