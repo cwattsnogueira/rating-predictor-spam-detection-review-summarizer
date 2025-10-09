@@ -55,7 +55,7 @@ These embeddings are saved for downstream ML/DL tasks such as fake review detect
 | `X_word2vec.npy`                  | Word2Vec-like embeddings (SVD-reduced)      | [Download](./output/X_word2vec.npy) |
 | `word2vec_vectorizer.pkl`         | Fitted CountVectorizer                      | [Download](./output/word2vec_vectorizer.pkl) |
 | `word2vec_svd.pkl`                | Fitted TruncatedSVD model                   | [Download](./output/word2vec_svd.pkl) |
-| `glove_embeddings.pkl`            | Loaded GloVe word vectors                   | [Download](./output/glove_embeddings.pkl) |
+| `glove_embeddings.pkl`            | Loaded GloVe word vectors                   | |
 | `X_glove.npy`                     | GloVe-based review embeddings               | [Download](./output/X_glove.npy) |
 | `embeddingvalues.png`             | Distribution plot of mean embedding values  | |
 
@@ -67,12 +67,12 @@ These pre-trained vectors are downloaded from Stanford NLP and used to compute s
 
 | File Name              | Dimensions | Link |
 |------------------------|------------|------|
-| `glove.6B.50d.txt`     | 50         | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
-| `glove.6B.100d.txt`    | 100        | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
-| `glove.6B.200d.txt`    | 200        | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
-| `glove.6B.300d.txt`    | 300        | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
+| `glove.6B.50d.txt`     | 50         |  |
+| `glove.6B.100d.txt`    | 100        |  |
+| `glove.6B.200d.txt`    | 200        |  |
+| `glove.6B.300d.txt`    | 300        |  |
 
-> All files are included in the official [GloVe 6B package](http://nlp.stanford.edu/data/glove.6B.zip)
+> All files zip
 
 ---
 
