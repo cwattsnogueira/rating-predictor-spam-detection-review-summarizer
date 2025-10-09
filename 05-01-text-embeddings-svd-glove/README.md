@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-yellow)
 ![NLP](https://img.shields.io/badge/NLP-tokenization%20%7C%20embeddings-purple)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-TruncatedSVD-orange)
-![GloVe](https://img.shields.io/badge/GloVe-100d%20Stanford-lightblue)
+![GloVe](https://img.shields.io/badge/GloVe-Stanford%20Vectors-lightblue)
 ![Feature Engineering](https://img.shields.io/badge/feature--engineering-vectorization-informational)
 ![Ethical AI](https://img.shields.io/badge/ethics-transparent--representation-green)
 
@@ -20,7 +20,7 @@
 This notebook generates two types of text embeddings from tokenized product reviews:
 
 - **Word2Vec-like embeddings** using `CountVectorizer` + `TruncatedSVD`
-- **GloVe embeddings** using pre-trained Stanford vectors (100d)
+- **GloVe embeddings** using pre-trained Stanford vectors (50d–300d)
 
 These embeddings are saved for downstream ML/DL tasks such as fake review detection, rating prediction, and semantic analysis. The goal is to create interpretable, reusable representations of review text while maintaining transparency and reproducibility.
 
@@ -57,7 +57,22 @@ These embeddings are saved for downstream ML/DL tasks such as fake review detect
 | `word2vec_svd.pkl`                | Fitted TruncatedSVD model                   | [Download](./output/word2vec_svd.pkl) |
 | `glove_embeddings.pkl`            | Loaded GloVe word vectors                   | [Download](./output/glove_embeddings.pkl) |
 | `X_glove.npy`                     | GloVe-based review embeddings               | [Download](./output/X_glove.npy) |
-| `embeddingvalues.png`             | Distribution plot of mean embedding values  | [View image](./output/embeddingvalues.png) |
+| `embeddingvalues.png`             | Distribution plot of mean embedding values  | ![Embedding Values](./output/embeddingvalues.png) |
+
+---
+
+##  GloVe Embedding Files
+
+These pre-trained vectors are downloaded from Stanford NLP and used to compute semantic embeddings:
+
+| File Name              | Dimensions | Link |
+|------------------------|------------|------|
+| `glove.6B.50d.txt`     | 50         | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
+| `glove.6B.100d.txt`    | 100        | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
+| `glove.6B.200d.txt`    | 200        | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
+| `glove.6B.300d.txt`    | 300        | [Download](http://nlp.stanford.edu/data/glove.6B.zip) |
+
+> All files are included in the official [GloVe 6B package](http://nlp.stanford.edu/data/glove.6B.zip)
 
 ---
 
@@ -80,7 +95,7 @@ This plot compares the distribution of mean embedding values from both methods:
 - Tokenizes review text into word lists
 - Applies `CountVectorizer` with identity functions to preserve token structure
 - Reduces dimensionality using `TruncatedSVD` to simulate Word2Vec-style embeddings
-- Loads pre-trained GloVe vectors (100d) and computes average embedding per review
+- Loads pre-trained GloVe vectors (50d–300d) and computes average embedding per review
 - Saves all embeddings and models for reuse
 - Visualizes the distribution of mean embedding values across both methods
 
@@ -98,4 +113,3 @@ This plot compares the distribution of mean embedding values from both methods:
 
 ---
 
-Let me know when you're ready to move on to the next README!
