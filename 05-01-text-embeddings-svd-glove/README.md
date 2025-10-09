@@ -57,7 +57,7 @@ These embeddings are saved for downstream ML/DL tasks such as fake review detect
 | `word2vec_svd.pkl`                | Fitted TruncatedSVD model                   | [Download](./output/word2vec_svd.pkl) |
 | `glove_embeddings.pkl`            | Loaded GloVe word vectors                   | [Download](./output/glove_embeddings.pkl) |
 | `X_glove.npy`                     | GloVe-based review embeddings               | [Download](./output/X_glove.npy) |
-| `embeddingvalues.png`             | Distribution plot of mean embedding values  | ![Embedding Values](./output/embeddingvalues.png) |
+| `embeddingvalues.png`             | Distribution plot of mean embedding values  | |
 
 ---
 
