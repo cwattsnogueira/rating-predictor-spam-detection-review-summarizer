@@ -7,7 +7,7 @@
 ![Modeling](https://img.shields.io/badge/modeling-unsupervised--anomaly--detection-purple)
 ![Ethical AI](https://img.shields.io/badge/ethics-review--integrity--aware-green)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/11_anomaly_detection.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -22,7 +22,7 @@ This notebook applies two unsupervised models—**Isolation Forest** and **One-C
 ##  Folder Structure
 
 ```
-├── 16-anomaly-detection/
+├── 11-anomaly-detection/
 │   ├── notebook/     # Contains this anomaly detection notebook
 │   ├── output/       # Saved flags, scores, and updated features
 │   └── README.md     # This documentation
