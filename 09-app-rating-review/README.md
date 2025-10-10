@@ -7,7 +7,7 @@
 ![Gradio](https://img.shields.io/badge/UI-gradio%20interactive-orange)
 ![Modeling](https://img.shields.io/badge/modeling-review--rating--prediction-purple)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/13-retail-review-assistant/notebook/retail_review_gradio.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/09_ReviewAssistantBERT5-ClassModel.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -95,6 +95,31 @@ Includes product previews and retailer logos used in the UI.
 | Confidence feedback               | Model transparency       | High — supports ethical AI usage |
 | Image rendering                   | Visual storytelling      | Medium — enhances clarity and trust |
 | ZIP upload + extraction           | Workflow setup           | Medium — enables flexible deployment |
+
+---
+
+Perfeito, Carllos! Aqui está o trecho atualizado para incluir as imagens de teste no seu `README.md` do notebook **Retail Review Assistant (Gradio + BERT 5-Class Model)**. Ele assume que você salvou as imagens de teste (como `1star.png`, `2star.png`, etc.) na pasta `output/`.
+
+---
+
+##  Test Examples by Predicted Rating
+
+These screenshots show how the assistant responds to different review inputs, with predicted star ratings and visual feedback:
+
+| Predicted Rating | Screenshot |
+|------------------|------------|
+| ⭐☆☆☆☆ (1 star)   | ![1 Star](./output/1star.png) |
+| ⭐⭐☆☆☆ (2 stars)  | ![2 Stars](./output/2star.png) |
+| ⭐⭐⭐☆☆ (3 stars)  | ![3 Stars](./output/3star.png) |
+| ⭐⭐⭐⭐☆ (4 stars)  | ![4 Stars](./output/4star.png) |
+| ⭐⭐⭐⭐⭐ (5 stars)  | ![5 Stars](./output/5star.png) |
+
+Each prediction includes:
+
+- Review title and body
+- Emoji-based star rendering
+- Confidence score and breakdown
+- Warning if confidence is low
 
 ---
 
