@@ -43,9 +43,9 @@ This repository presents a full pipeline for analyzing and moderating product re
 - [13-BERT - Fake Review Detection](./bert-fake-review/fine-tuning-bert-oversampling/)
 
 ###  Unsupervised Modeling
-- [08-02 - Unsupervised Workflows](./08-unsupervised-workflows/)
-  - [08-02-01-Clustering with KMeans](./08-unsupervised-workflows/clustering-kmeans-elbow/)
-  - [08-02-02-Outlier Detection with Isolation Forest](./08-unsupervised-workflows/outlier-detection-isolation-forest/)
+- [08-02 - Unsupervised Workflows](./08-02-unsupervised-workflows/)
+  - [08-02-01-Clustering with KMeans](./08-02-unsupervised-workflows/clustering-kmeans-elbow/)
+  - [08-02-02-Outlier Detection with Isolation Forest](./08-02-unsupervised-workflows/outlier-detection-isolation-forest/)
 - [11 - Anomaly Detection](./12-anomaly-detection/)
 
 ###  Applications & Interfaces
