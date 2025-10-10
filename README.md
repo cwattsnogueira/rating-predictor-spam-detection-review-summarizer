@@ -46,7 +46,7 @@ This repository presents a full pipeline for analyzing and moderating product re
 - [08-02 - Unsupervised Workflows](./08-02-unsupervised-workflows/)
   - [08-02-01-Clustering with KMeans](./08-02-unsupervised-workflows/clustering-kmeans-elbow/)
   - [08-02-02-Outlier Detection with Isolation Forest](./08-02-unsupervised-workflows/outlier-detection-isolation-forest/)
-- [11 - Anomaly Detection](./12-anomaly-detection/)
+- [11 - Anomaly Detection](./11-anomaly-detection/)
 
 ###  Applications & Interfaces
 - [09 - App: Rating Review Assistant](./09-app-rating-review/)
