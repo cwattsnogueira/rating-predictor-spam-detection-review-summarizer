@@ -1,0 +1,32 @@
+{
+  "model_name": "rnn_model.keras",
+  "threshold": 0.22788387537002563,
+  "input_shape": [
+    122
+  ],
+  "features_used": [
+    "review_length",
+    "sentiment_polarity",
+    "repetition_score",
+    "log_helpful",
+    "no_helpful_votes_flag",
+    "helpful_missing_flag",
+    "purchase_encoded",
+    "recommend_encoded",
+    "purchase_missing_flag",
+    "recommend_missing_flag",
+    "username_dup_flag",
+    "multi_review_same_day_flag",
+    "multi_review_same_product_flag",
+    "product_name_match_flag",
+    "unrelated_product_flag",
+    "semantic_mismatch_score",
+    "brand_encoded",
+    "category_group_encoded",
+    "anomaly_flag_combined",
+    "isolation_flag",
+    "svm_flag",
+    "anomaly_flag_combined"
+  ],
+  "tokenizer_path": "/content/tokenizer.pkl"
+}
