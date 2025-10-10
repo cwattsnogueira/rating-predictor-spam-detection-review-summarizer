@@ -40,7 +40,7 @@ This repository presents a full pipeline for analyzing and moderating product re
 - [10-01 - Fake Review Modeling (SMOTE)](./10-01-fake-review-modeling-smote/)
 - [12 - Deep Learning Modeling](./12-dl-modeling/)
 - [12-01 - RNN/LSTM with Embeddings & SMOTE](./12-01-rnnlstm-embeddings-smote/)
-- [13-BERT - Fake Review Detection](./bert-fake-review/fine-tuning-bert-oversampling/)
+- [13-BERT - Fake Review Detection](./13-fine-tuning-bert-oversampling/)
 
 ###  Unsupervised Modeling
 - [08-02 - Unsupervised Workflows](./08-02-unsupervised-workflows/)
