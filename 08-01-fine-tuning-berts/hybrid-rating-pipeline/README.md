@@ -23,7 +23,7 @@ This notebook trains a **hybrid neural network** that combines BERT embeddings f
 ##  Folder Structure
 
 ```
-├── 10-hybrid-bert/
+├── 08-01-hybrid-bert/
 │   ├── notebook/     # Contains this hybrid model training notebook
 │   ├── output/       # Saved models, metrics, and plots
 │   └── README.md     # This documentation

@@ -23,7 +23,7 @@ This notebook fine-tunes a pre-trained BERT model (`bert-base-uncased`) to predi
 ##  Folder Structure
 
 ```
-├── 09-multiclass-bert/
+├── 08-01-multiclass-bert/
 │   ├── notebook/     # Contains this BERT fine-tuning notebook
 │   ├── output/       # Saved models, metrics, and plots
 │   ├── output/bert_5class_rating_model/       # HF model

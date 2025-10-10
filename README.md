@@ -34,8 +34,8 @@ This repository presents a full pipeline for analyzing and moderating product re
 ###  Supervised Modeling
 - [08 - Rating Prediction](./08-rating-prediction/)
 - [08-01 - Fine-Tuning BERT Models](./08-01-fine-tuning-berts/)
-  - [BERT 5-Class Rating Model](./08-01-fine-tuning-berts/bert-5class-rating-model/)
-  - [Hybrid Rating Pipeline](./08-01-fine-tuning-berts/hybrid-rating-pipeline/)
+  - [08-01-01-BERT 5-Class Rating Model](./08-01-fine-tuning-berts/bert-5class-rating-model/)
+  - [08-01-02-Hybrid Rating Pipeline](./08-01-fine-tuning-berts/hybrid-rating-pipeline/)
 - [10 - Fake Review Modeling (Upsampled)](./10-fake-review-modeling-upsampled/)
 - [10-01 - Fake Review Modeling (SMOTE)](./10-01-fake-review-modeling-smote/)
 - [12 - Deep Learning Modeling](./12-dl-modeling/)
@@ -43,9 +43,9 @@ This repository presents a full pipeline for analyzing and moderating product re
 - [13-BERT - Fake Review Detection](./bert-fake-review/fine-tuning-bert-oversampling/)
 
 ###  Unsupervised Modeling
-- [08-03 - Unsupervised Workflows](./08-unsupervised-workflows/)
-  - [Clustering with KMeans](./08-unsupervised-workflows/clustering-kmeans-elbow/)
-  - [Outlier Detection with Isolation Forest](./08-unsupervised-workflows/outlier-detection-isolation-forest/)
+- [08-02 - Unsupervised Workflows](./08-02-unsupervised-workflows/)
+  - [08-02-01-Clustering with KMeans](./08-02-unsupervised-workflows/clustering-kmeans-elbow/)
+  - [08-02-02-Outlier Detection with Isolation Forest](./08-02-unsupervised-workflows/outlier-detection-isolation-forest/)
 - [11 - Anomaly Detection](./12-anomaly-detection/)
 
 ###  Applications & Interfaces
