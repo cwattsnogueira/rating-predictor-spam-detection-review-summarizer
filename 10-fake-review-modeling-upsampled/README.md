@@ -35,8 +35,8 @@ This notebook trains and evaluates multiple supervised models to detect potentia
 
 | File Name                      | Description                                 | Link |
 |-------------------------------|---------------------------------------------|------|
-| `engineered_features.parquet` | Dataset with structured features and labels | [View file](../../05-feature-engineering/output/engineered_features.parquet) |
-| `feature_names.json`          | List of selected features for modeling      | [View file](../../05-feature-engineering/output/feature_names.json) |
+| `engineered_features.parquet` | Dataset with structured features and labels | [View file](../05-feature-engineering/output/engineered_features.parquet) |
+| `feature_names.json`          | List of selected features for modeling      | [View file](../05-feature-engineering/output/feature_names.json) |
 
 ---
 
