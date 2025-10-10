@@ -7,7 +7,7 @@
 ![Modeling](https://img.shields.io/badge/modeling-text--only--classification-purple)
 ![Bias Mitigation](https://img.shields.io/badge/SMOTE-balanced--training-green)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/18-pytorch-lstm-smote/notebook/fake_review_lstm_pytorch.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/12_01_RNNLSTM_embeddings_SMOTE.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -34,7 +34,7 @@ This notebook trains a binary classifier using a **custom PyTorch LSTM model** t
 
 | File Name                      | Description                                 | Link |
 |-------------------------------|---------------------------------------------|------|
-| `engineered_features.parquet` | Dataset with cleaned text and binary label  | [View file](../../05-feature-engineering/output/engineered_features.parquet) |
+| `engineered_features.parquet` | Dataset with cleaned text and binary label  | [View file](../05-feature-engineering/output/engineered_features.parquet) |
 | `glove.6B.100d.txt`           | Optional GloVe embeddings (if available)     | [Upload manually] |
 
 ---
