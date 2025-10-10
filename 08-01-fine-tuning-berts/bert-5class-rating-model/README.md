@@ -36,7 +36,7 @@ This notebook fine-tunes a pre-trained BERT model (`bert-base-uncased`) to predi
 
 | File Name                      | Description                                 | Link |
 |-------------------------------|---------------------------------------------|------|
-| `engineered_features.parquet` | Dataset with cleaned review text and ratings | [View file](./05-feature-engineering/output) |
+| `engineered_features.parquet` | Dataset with cleaned review text and ratings | [View file](../../05-feature-engineering/output/engineered_features.parquet) |
 
 ---
 
