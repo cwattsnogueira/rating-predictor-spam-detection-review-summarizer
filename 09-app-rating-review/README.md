@@ -7,7 +7,7 @@
 ![Gradio](https://img.shields.io/badge/UI-gradio%20interactive-orange)
 ![Modeling](https://img.shields.io/badge/modeling-review--rating--prediction-purple)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/09_ReviewAssistantBERT5-ClassModel.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/09_ReviewAssistantBERT5_ClassModel.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
