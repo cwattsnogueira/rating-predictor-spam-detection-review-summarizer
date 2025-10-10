@@ -22,7 +22,7 @@ This notebook trains a hybrid neural network using **LSTM layers** for text inpu
 ##  Folder Structure
 
 ```
-├── 17-lstm-review-classifier/
+├── 12-lstm-review-classifier/
 │   ├── notebook/     # Contains this LSTM classification notebook
 │   ├── output/       # Saved model, tokenizer, plots, and metadata
 │   └── README.md     # This documentation
