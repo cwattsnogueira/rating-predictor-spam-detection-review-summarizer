@@ -44,7 +44,7 @@ These models work together to evaluate reviews from multiple angles: semantic qu
 - Updated product rating suggestions  
 - Moderation logs for auditability
 
-![Architecture Overview](./output/architecture.png)
+![Architecture Overview](./assets/architecture.png)
 
 ---
 
