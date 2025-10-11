@@ -8,7 +8,7 @@
 ![Modeling](https://img.shields.io/badge/modeling-multiclass--classification-purple)
 ![Ethical AI](https://img.shields.io/badge/ethics-class--imbalance--aware-green)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/bert_5class_rating_model.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/08_01_bert_5class_rating_model.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
