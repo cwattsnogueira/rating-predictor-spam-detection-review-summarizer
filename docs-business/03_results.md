@@ -7,7 +7,7 @@
 - Gradio-powered apps for:
   - Manual review summarization (T5, GPT-3.5, GPT-4)
   - CSV ingestion and batch classification
-  - Extractive summarization using BERT
+  - Extractive prediction using BERT
   - Spam detection with anomaly flags
 - Review moderation assistant with:
   - Confidence scores
