@@ -9,7 +9,8 @@ I started by analyzing real-world review data, looking for inconsistencies betwe
 Once the data was structured, I trained and fine-tuned multiple models:
 
 - A BERT-based classifier to detect spam and fake reviews  
-- A regression model to predict star ratings directly from review text  
+- A regression model to predict star ratings directly from review text 
+- A BERT to predict stars. 
 - Extractive summarization using BERT embeddings  
 - Abstractive summarization using GPT-3.5 and GPT-4
 
