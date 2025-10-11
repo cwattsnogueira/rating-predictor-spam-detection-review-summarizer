@@ -14,13 +14,13 @@
 ###  Visual Example
 
 -  Real product listing (e.g., Amazon screenshot)  
-  `docs-business/docs/producto.png`
+ ![Real product listing](./assets/producto.png)
 
 -  Raw customer reviews  
-  `docs-business/docs/reviews.png`
+  ![Raw customer reviews](./assets/reviews.png)
 
 -  Summarized customer feedback  
-  `docs-business/docs/customersaysummar.png`
+ ![Summarized customer feedback](./assets/customersaysummar.png)
 
 ---
 
