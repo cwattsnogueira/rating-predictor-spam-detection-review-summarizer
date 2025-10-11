@@ -8,7 +8,7 @@
   - Manual review summarization (T5, GPT-3.5, GPT-4)
   - CSV ingestion and batch classification
   - Extractive prediction using BERT
-  - Spam detection with anomaly flags
+  - Spam detection with anomaly flags and BERT
 - Review moderation assistant with:
   - Confidence scores
   - Heuristic explanations
