@@ -7,7 +7,7 @@
 ![Modeling](https://img.shields.io/badge/modeling-unsupervised--anomaly--detection-purple)
 ![Ethical AI](https://img.shields.io/badge/ethics-review--integrity--aware-green)
 
-<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/OutlierDetectionPipelinesolationForest.ipynb" target="_parent">
+<a href="https://colab.research.google.com/github/cwattsnogueira/rating-predictor-spam-detection-review-summarizer/blob/main/08_02_02_OutlierDetectionPipelinesolationForest.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
