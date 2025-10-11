@@ -18,7 +18,7 @@
 *Summary of creatine reviews showing nuanced sentiment*  
 ![Manual Review Summary](./assets/manualreviews.png)  
 
-*Summary of headphone reviews from a CSV, revealing inconsistencies*  
+*Summary of headphone reviews from a CSV*  
 ![CSV Review Summary](./assets/csvrevi.png)  
 
 
