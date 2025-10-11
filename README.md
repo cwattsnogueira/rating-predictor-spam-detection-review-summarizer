@@ -50,12 +50,12 @@ This repository presents a full pipeline for analyzing and moderating product re
 
 ###  Applications & Interfaces
 - [09 - App: Rating Review Assistant](./09-app-rating-review/)
-- [14 - App - Fake Review Moderation](./14-app-fake-review/)
-- [15 - Review Summarization App](./review-summarization-app/)
-- [15-01 - Review Summarization - T5 Small](./review-summarization-t5-small/)
-- [15-02 - Review Summarization - BERT Base](./review-summarization-bert-base/)
-- [15-03 - Review Summarization - GPT-3](./review-summarization-gpt3/)
-- [15-04 - Review Summarization - GPT-4](./review-summarization-gpt4/)
+- [14 - App - Spam Review Moderation](./14-app-fake-review/)
+- [15 - Review Summarization App](./15-review-summarization-app/)
+- [15-01 - Review Summarization - T5 Small](./15-01-review-summarization-t5-small/)
+- [15-02 - Review Summarization - BERT Base](./15-02-review-summarization-bert-base/)
+- [15-03 - Review Summarization - GPT-3](./15-03-review-summarization-gpt3/)
+- [15-04 - Review Summarization - GPT-4](./15-04-review-summarization-gpt4/)
 
 ---
 
