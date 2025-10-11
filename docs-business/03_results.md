@@ -24,9 +24,6 @@
 
 ---
 
-Se quiser, posso ajudar a adicionar badges, tooltips ou expandir com links para notebooks, model outputs ou budget tables. Quer que eu monte um bloco completo com isso?
-
-
 ###  Key Insights
 
 - **Over 30% of reviews flagged as suspicious** showed sentiment-star mismatch.
