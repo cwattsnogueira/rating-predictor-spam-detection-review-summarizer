@@ -1,0 +1,68 @@
+────────────────────────────────────────────────────────────
+Fake Reviews
+────────────────────────────────────────────────────────────
+Product Name: GlowSkin Serum  
+Review Title: Miracle in a Bottle!  
+Review Text: My skin became flawless in just two days. No more acne, no more wrinkles. It’s like magic. I’ll never use anything else!  
+Reviewer: beautyfan88  
+Review Date: 2025-09-10
+
+Product Name: PowerMax Blender 5000  
+Review Title: Unbeatable Performance!  
+Review Text: This blender crushes anything! Ice, nuts, fruit — all in seconds. I’ll never use another brand. Everyone should own one.  
+Reviewer: smoothieking  
+Review Date: 2025-08-25
+
+Product Name: QuickCharge USB Cable  
+Review Title: Charges in Seconds!  
+Review Text: This cable charges my phone faster than lightning. Incredible quality and durability. Highly recommend to everyone!  
+Reviewer: techguru2025  
+Review Date: 2025-09-05
+
+Product Name: FreshBrew Coffee Pods  
+Review Title: Best Coffee Ever!  
+Review Text: Tastes better than any café. Rich, bold, and perfect every time. You have to try it!  
+Reviewer: coffeelover99  
+Review Date: 2025-09-12
+
+Product Name: SoundWave Mini Speaker  
+Review Title: Decent for casual use  
+Review Text: The audio is okay for podcasts and background music. The battery lasted 5 hours for me. Build feels a bit plasticky, but overall fine for the price.  
+Reviewer: neutraltester  
+Review Date: 2025-09-28
+
+────────────────────────────────────────────────────────────
+Genuine Reviews
+────────────────────────────────────────────────────────────
+Product Name: HomeBrew Coffee Maker  
+Review Title: Very disappointing  
+Review Text: It worked fine for a week, then the pump stopped working. I called support three times, no answer. Ended up returning it for a refund.  
+Reviewer: coffeelover2025  
+Review Date: 2025-09-20
+
+Product Name: UltraClean Vacuum 3000  
+Review Title: Best Vacuum Ever!  
+Review Text: This vacuum changed my life! It’s so powerful it feels like it’s cleaning the air itself. I use it every day and tell everyone to buy it.  
+Reviewer: cleanmaster88  
+Review Date: 2025-09-15
+
+Product Name: Watkins Hand Cream
+Review Title: Stolen from my desk
+Review Text: Hand cream nice desk work. Someone stole it two days later — broke my heart a little.
+Reviewer: deskuser88
+Review Date: 2025-09-19
+
+Product Name: GlowSkin Facial Cleanser
+Review Title: Clears complexion
+Review Text: Sure works. Been using it for weeks and it keeps my skin smooth and clean.
+Reviewer: glowfan2025
+Review Date: 2025-09-21
+
+Product Name: Olay Regenerist Cream
+Review Title: Switched back to Neutrogena
+Review Text: Didn’t moisturize like I expected. Tried it for a week, but I’m going back to Neutrogena.
+Reviewer: skincarehonest
+Review Date: 2025-09-24
+
+
+
