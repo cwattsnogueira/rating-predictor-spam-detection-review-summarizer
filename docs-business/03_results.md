@@ -15,9 +15,17 @@
   - Suggestion prompts for human reviewers
 
 ###  Visual Outputs
+*Summary of creatine reviews showing nuanced sentiment*  
+![Manual Review Summary](./assets/manualreviews.png)  
 
-- `manualreviews.png`: Summary of creatine reviews showing nuanced sentiment
-- `csvrevi.png`: Summary of headphone reviews from a CSV, revealing inconsistencies
+*Summary of headphone reviews from a CSV, revealing inconsistencies*  
+![CSV Review Summary](./assets/csvrevi.png)  
+
+
+---
+
+Se quiser, posso ajudar a adicionar badges, tooltips ou expandir com links para notebooks, model outputs ou budget tables. Quer que eu monte um bloco completo com isso?
+
 
 ###  Key Insights
 
