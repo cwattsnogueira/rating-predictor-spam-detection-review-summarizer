@@ -1,4 +1,4 @@
-#  Final Project: Review Intelligence Pipeline
+#  Project: Review Intelligence Pipeline
 
 **Author:** Carllos Watts-Nogueira  
 **Location:** NY, USA  
